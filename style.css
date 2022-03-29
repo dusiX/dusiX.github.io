@@ -2,7 +2,6 @@ body {
   background-color: #f5f7fa;
   padding: 40px;
   font-family: 'Montserrat', sans-serif;
-  background-image: url(https://www.okazje.info.pl/images/offer/xxxl/6822/37896822-tapeta-khroma-zoom-olivia-oli401.jpg);
 }
 
 .container {
@@ -28,7 +27,6 @@ body {
   padding-right: 200px;
   padding-top: 68px;
   padding-bottom: 68px;
-  background-color: #F6E5DD;
 }
 
 .bio-title {
@@ -108,7 +106,7 @@ body {
 
 .left-side {
   width: 370px;
-  background-color: #6372A6;
+  background-color: #1e2939;
   color: #fff;
 }
 
