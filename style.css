@@ -4,14 +4,8 @@ body{
     font-family: 'Montserrat', sans-serif;
 }
 
-.containter{
-  width: 1600px;
-  height: auto;
-  margin: auto;
-  display: flex;
-  border: 1px solid red;
+.containter1{
 
-  box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
 }
 
 .kwadrat1, .kwadrat2, .kwadrat3, .kwadrat4, .kwadrat5, .kwadrat6, .kwadrat7, .kwadrat8, .kwadrat9{
@@ -60,9 +54,8 @@ body{
 .pagetitle{
     font-size: 45px;
     color: #000000;
-    left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, -50%)
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .pageundertitle{
@@ -70,9 +63,8 @@ body{
     color:rgba(66, 66, 66, 0.884);
     opacity: 0.6;
     margin-bottom: 60px;
-    left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, -50%)
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .pagetitle, .pageundertitle, .kafelek{
@@ -86,13 +78,4 @@ body{
     width: 200px;
     margin: 0;
     position: absolute;
-    padding-top: 50%;
-    padding-left: 50%;
-    padding-right: -50%;
-    transform: translate(-50%, -50%)
-}
-
-#1 {
-    width: 300px;
-    display: inline-block;
 }
