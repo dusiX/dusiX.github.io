@@ -4,14 +4,35 @@ body{
     font-family: 'Montserrat', sans-serif;
 }
 
-.containter1{
+.container{
+    width: 960px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
 
+}
+
+.containter1{
+    width: 300px;
+    height: 990px;
+    margin-left: 0;
+}
+
+.containter2{
+    width: 300px;
+    height: 990px;
+    margin-left: 330px;
+}
+
+.containter3{
+    width: 300px;
+    height: 990px;
+    margin-left: 690px;
 }
 
 .kwadrat1, .kwadrat2, .kwadrat3, .kwadrat4, .kwadrat5, .kwadrat6, .kwadrat7, .kwadrat8, .kwadrat9{
     width: 300px;
     height: 300px;
-    margin: 30px;
 }
 
 .kwadrat1{
