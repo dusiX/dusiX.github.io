@@ -6,7 +6,7 @@ body{
 
 .containter{
     display: flex;
-  width: 1200px;
+  width: 1600px;
   margin-left: auto;
   margin-right: auto;
   padding: 10px;
@@ -19,4 +19,54 @@ body{
     width: 50px;
     height: 50px;
     margin: 10px;
+}
+
+.kwadrat1{
+    background-color: #899fc2;
+}
+
+.kwadrat2{
+    background-color: #daa49d;
+}
+
+.kwadrat3{
+    background-color: #94c08c;
+}
+
+.kwadrat4{
+    background-color: #d3d494;
+}
+
+.kwadrat5{
+    background-color: #ad89c2;
+}
+
+.kwadrat6{
+    background-color: #c2a389;
+}
+
+.kwadrat7{
+    background-color: #94c08c;
+}
+
+.kwadrat8{
+    background-color: #899fc2;
+}
+
+.kwadrat9{
+    background-color: #ad89c2;
+}
+
+.pagetitle{
+    font-size: 45px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pageundertitle{
+    font-size: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    color:rgba(66, 66, 66, 0.884);
+    opacity: 0.75;
 }
