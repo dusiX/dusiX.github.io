@@ -5,10 +5,10 @@ body{
 }
 
 .containter{
-    display: flex;
-  width: 1600px;
-  height: 1600px;
+  width: 1200px;
+  height: 1200px;
   margin: auto;
+  display: flex;
 
   background-color: rgba(163, 161, 161, 0.884);
   box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
@@ -60,14 +60,14 @@ body{
 
 .pagetitle{
     font-size: 45px;
-    padding-left: auto;
-    padding-right: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .pageundertitle{
     font-size: 40px;
-    padding-left: auto;
-    padding-right: auto;
+    margin-left: auto;
+    margin-right: auto;
     color:rgba(66, 66, 66, 0.884);
-    opacity: 0.75;
+    opacity: 0.6;
 }
