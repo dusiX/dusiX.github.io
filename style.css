@@ -5,12 +5,11 @@ body{
 }
 
 .containter{
-  width: 1200px;
-  height: 1200px;
+  width: 1600px;
+  height: auto;
   margin: auto;
   display: flex;
 
-  background-color: rgba(163, 161, 161, 0.884);
   box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
 }
 
@@ -81,9 +80,14 @@ body{
 .kafelek{
     text-decoration: none;
     font-size: 32px;
-    padding: auto;
     color: #000000;
     width: 200px;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
 }
 
 #1 {
