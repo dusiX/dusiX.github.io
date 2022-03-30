@@ -33,8 +33,6 @@ body{
 .kwadrat1, .kwadrat2, .kwadrat3, .kwadrat4, .kwadrat5, .kwadrat6, .kwadrat7, .kwadrat8, .kwadrat9{
     width: 300px;
     height: 300px;
-    margin: auto;
-    position: absolute;
 }
 
 .kwadrat1{
@@ -82,4 +80,6 @@ body{
 
 .kafel {
     width: 200px;
+    padding: auto;
+    position: absolute;
 }
