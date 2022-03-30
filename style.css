@@ -27,6 +27,7 @@ body{
 
 .kwadrat2{
     background-color: #daa49d;
+    float: left;
 }
 
 .kwadrat3{
@@ -60,7 +61,6 @@ body{
 .pagetitle{
     font-size: 45px;
     color: #000000;
-    top: 50%;
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%)
@@ -71,7 +71,6 @@ body{
     color:rgba(66, 66, 66, 0.884);
     opacity: 0.6;
     margin-bottom: 60px;
-    top: 50%;
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%)
@@ -88,12 +87,13 @@ body{
     width: 200px;
     margin: 0;
     position: absolute;
-    top: 50%;
-    left: 50%;
-    margin-right: -50%;
+    padding-top: 50%;
+    padding-left: 50%;
+    padding-right: -50%;
     transform: translate(-50%, -50%)
 }
 
 #1 {
     width: 300px;
+    display: inline-block;
 }
