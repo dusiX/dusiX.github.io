@@ -76,6 +76,9 @@ body{
     text-decoration: none;
     font-size: 38px;
     color: #000000;
+}
+
+.kafel {
     width: 200px;
     margin: 0 auto;
     position: absolute;
