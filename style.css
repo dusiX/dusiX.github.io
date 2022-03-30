@@ -80,6 +80,7 @@ body{
 
 .kafel {
     width: 200px;
-    margin: 0 auto;
+    margin: auto;
     position: absolute;
+    padding: auto;
 }
