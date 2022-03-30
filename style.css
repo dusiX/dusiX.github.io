@@ -1,3 +1,22 @@
-body {
+body{
+    background-color: #f5f7fa;
+    padding: 40px;
+    font-family: 'Montserrat', sans-serif;
+}
 
+.containter{
+    display: flex;
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+
+  background-color: rgba(163, 161, 161, 0.884);
+  box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+}
+
+.kwadrat1, .kwadrat2, .kwadrat3, .kwadrat4, .kwadrat5, .kwadrat6, .kwadrat7, .kwadrat8, .kwadrat9{
+    width: 50px;
+    height: 50px;
+    margin: 10px;
 }
