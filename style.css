@@ -59,18 +59,22 @@ body{
 
 .pagetitle{
     font-size: 45px;
-    margin-left: auto;
-    margin-right: auto;
     color: #000000;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
 }
 
 .pageundertitle{
     font-size: 40px;
-    margin-left: auto;
-    margin-right: auto;
     color:rgba(66, 66, 66, 0.884);
     opacity: 0.6;
     margin-bottom: 60px;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
 }
 
 .pagetitle, .pageundertitle, .kafelek{
