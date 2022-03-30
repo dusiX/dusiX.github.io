@@ -76,3 +76,9 @@ body{
 .pagetitle, .pageundertitle, .kafelek{
     font-family: Montserrat;
 }
+
+.kafelek{
+    text-decoration: none;
+    font-size: 32px;
+    margin: auto;
+}
