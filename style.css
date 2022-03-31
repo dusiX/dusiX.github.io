@@ -36,23 +36,23 @@ body{
 }
 
 .kwadrat1, .kwadrat2 {
-    padding-bottom: 30px;
+    margin-bottom: 30px;
 }
 
 .kwadrat4, .kwadrat5 {
-    padding-bottom: 30px;
+    margin-bottom: 30px;
 }
 
 .kwadrat4, .kwadrat5, .kwadrat6 {
-    padding-left: 30px;
+    margin-left: 30px;
 }
 
 .kwadrat7, .kwadrat8 {
-    padding-bottom: 30px;
+    margin-bottom: 30px;
 }
 
 .kwadrat7, .kwadrat8, .kwadrat9 {
-    padding-left: 30px;
+    margin-left: 30px;
 }
 
 .kwadrat1{
