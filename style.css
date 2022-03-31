@@ -101,8 +101,5 @@ body{
     color: #000000;
     width: 150px;
     height: 180px;
-    margin-left: 50%;
-    margin-right: -50%;
-    margin-top: 50%;
-    margin-bottom: -50%;
+    margin-left: 300px;
 }
