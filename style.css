@@ -76,8 +76,10 @@ body{
     text-decoration: none;
     font-size: 38px;
     color: #000000;
-    padding: auto;
-    width: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: auto;
+    padding-bottom: auto;
 }
 
 .kafel {
