@@ -15,19 +15,22 @@ body{
 .containter1{
     width: 300px;
     height: 990px;
-    margin-left: 0;
+    margin-left: 0px;
+    margin-right: 660px;
 }
 
 .containter2{
     width: 300px;
     height: 990px;
     margin-left: 330px;
+    margin-right: 330px;
 }
 
 .containter3{
     width: 300px;
     height: 990px;
     margin-left: 690px;
+    margin-right: 0px;
 }
 
 .kwadrat1, .kwadrat2, .kwadrat3, .kwadrat4, .kwadrat5, .kwadrat6, .kwadrat7, .kwadrat8, .kwadrat9{
