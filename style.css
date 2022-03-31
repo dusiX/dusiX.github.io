@@ -77,7 +77,6 @@ body{
     font-size: 38px;
     color: #000000;
     width: 180px;
-    height: 200px;
-    left: 50%;
-    right: -50%;
+    height: 180px;
+    padding-left: 50px;
 }
