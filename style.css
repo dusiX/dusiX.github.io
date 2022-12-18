@@ -5,3 +5,20 @@ body{
     display: flex;
     margin: auto;
 }
+
+h1{
+    text-align: center;
+}
+
+aside{
+    width: 250px;
+    margin-right: 50%;
+}
+
+.right{
+    margin-left: 50%;
+}
+
+footer{
+    text-align: bottom;
+}
